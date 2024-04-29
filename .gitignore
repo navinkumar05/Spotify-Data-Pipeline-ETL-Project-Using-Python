@@ -1,2 +1,3 @@
 myenv
 .cache
+.env
